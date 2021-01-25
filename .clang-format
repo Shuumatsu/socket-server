@@ -1,0 +1,16 @@
+BasedOnStyle: Chromium
+IndentWidth: 4
+
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+
+IncludeBlocks: Preserve
+SortIncludes: false
+
+AlignTrailingComments: false
+
+SortIncludes: true

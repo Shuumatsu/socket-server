@@ -1,0 +1,13 @@
+{
+    "cmake.debugConfig": {
+        "args": ["8800"]
+    },
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "cerrno": "c",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "c"
+    }
+}
